@@ -1,0 +1,20 @@
+{
+  "name": "telemind",
+  "version": "1.0.0",
+  "description": "Social media application built with React, Node/Express, Redux, and Firebase.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DamirMoore/telemind.git"
+  },
+  "keywords": [],
+  "author": "Damir Moore",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DamirMoore/telemind/issues"
+  },
+  "homepage": "https://github.com/DamirMoore/telemind#readme"
+}
